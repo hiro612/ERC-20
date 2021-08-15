@@ -1,2 +1,2 @@
 # ERC-20
-Smart Contract
+ETH ERC-20 EXAMPLE
