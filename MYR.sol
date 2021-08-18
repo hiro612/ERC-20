@@ -14,3 +14,4 @@ contract MYRCoin is Context, ERC20, ERC20Detailed {
         _mint(_msgSender(), 2100000000000 * (10 ** uint256(decimals())));
     }
 }
+
